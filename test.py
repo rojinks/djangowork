@@ -11,3 +11,5 @@ def test_percent():
    tot = 100
    percentage = percent(dis,tot)
    assert percentage == "Cannot discount 100%"
+# Happy Hactober
+# btw where's django
